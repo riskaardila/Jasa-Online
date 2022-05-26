@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JasaOnline</string>
+    <string name="beranda">Beranda</string>
+    <string name="jasa_pengguna">Jasa Pengguna</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="nama_header">Nama di Header</string>
+    <string name="email_header">Email di Header</string>
+    <string name="image_header">image header</string>
+    <string name="fragment_beranda">Ini fragment Beranda Pengguna</string>
+    <string name="fragment_jasa">Ini fragment Jasa Pengguna</string>
+    <string name="fragment_profil">Ini fragment Profil Pengguna</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
