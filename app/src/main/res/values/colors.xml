@@ -8,4 +8,8 @@
     <color name="secondary_text">#757575</color>
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
+
+    <!--New Colors-->
+    <color name="colorAzura">#f1f5f8</color>
+    <color name="colorGray">#f2f2f2</color>
 </resources>

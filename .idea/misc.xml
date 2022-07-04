@@ -3,12 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/button_style1.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/button_style2.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/button_style3.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/button_style4.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/edittextstyle1.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/edittextstyle2.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/ic_icons8_twitter.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/drawable/linestyle.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/activity_edit_profile.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/activity_registrasi.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/fragment_beranda.xml" value="0.1" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/fragment_jasa.xml" value="0.1" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
-        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/jasa_list.xml" value="0.1" />
+        <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/layout/nav_header.xml" value="0.22" />
         <entry key="..\:/Users/RPrint-257/AndroidStudioProjects/JasaOnline/app/src/main/res/menu/main_menu.xml" value="0.11018518518518519" />
       </map>
     </option>

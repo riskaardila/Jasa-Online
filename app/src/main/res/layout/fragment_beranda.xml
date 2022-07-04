@@ -3,13 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BerandaFragment">
+    android:background="@drawable/repeat_background"
+    android:padding="10dp"
+    tools:context=".fragments.BerandaFragment">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+    <androidx.recyclerview.widget.RecyclerView
         android:text="@string/fragment_beranda"
-        android:textAlignment="center"
-        android:textSize="20sp"
-        android:layout_centerInParent="true"/>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 </RelativeLayout>
